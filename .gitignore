@@ -1,0 +1,10 @@
+/.idea/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+/gradle/wrapper/gradle-wrapper.jar
+/gradlew.bat
+/gradle/libs.versions.toml
